@@ -1,8 +1,8 @@
 {
   "id": "welcome_v2_0_2",
   "enabled": true,
-  "title": "Welcome to MusicOS 2.0.2 🎉",
-  "message": "Naya Apple Music-inspired Library, unified bottom navigation bar aur ultra-sleek AMOLED Dark Glass Settings ab live hain! Smooth listening enjoy karein.",
+  "title": "Welcome to MusicOS 2.0.2 ",
+  "message": "This is intended for the new feature announcement. Please ignore it for now.",
   "type": "feature",
   "action_label": "Visit Releases",
   "action_url": "https://github.com/subon7dev/musicos-app/releases/latest",
