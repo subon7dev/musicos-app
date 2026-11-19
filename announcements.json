@@ -1,10 +1,10 @@
 {
-  "id": "announcement_test_feature_v1",
+  "id": "announcement_test_feature_v2",
   "enabled": true,
   "title": "MusicOS Feature Announcement",
   "message": "This is intended for the new feature announcement. Please ignore it for now.",
   "type": "feature",
-  "action_label": "Learn More",
-  "action_url": "https://github.com/subon7dev/musicos-app",
+  "action_label": null,
+  "action_url": null,
   "dismissible": true
 }
