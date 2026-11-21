@@ -1,6 +1,6 @@
 {
   "id": "announcement_v2_0_4_released",
-  "enabled": true,
+  "enabled": false,
   "title": "MusicOS 2.0.4 is Here!",
   "message": "Hey everyone!\n\nMusicOS Version 2.0.4 is officially here!\n\nWhat is new in this update:\n\n- Redesigned Onboarding: Sleek AMOLED pure black welcome screen with the elegant Water Waves emblem.\n- Fluid Scroll Animations: Smooth spring pop-up animations when scrolling through Albums, Playlists, Artists, and Track lists.\n- Refined Settings: Beautiful spring entrance animations and transitions for Settings sections and Account card.\n- Enhanced Menus: Fluid spring physics for the Account Switcher and 3-dot track options popovers.\n- Visual Polish: Fixed playing equalizer indicator badge display on album artwork.\n- Dynamic Spotlight: Multi-shelf Featured Spotlight on Home with automatic advance.\n- Performance Boost: Faster load times, reduced stutter, and optimized fluid navigation throughout the app.\n\nThank you so much for your continuous love and support!\n\n— Developer of MusicOS",
   "type": "update",
