@@ -1,10 +1,10 @@
 {
-  "id": "announcement_v2_0_6_upcoming",
+  "id": "announcement_v2_0_6_live",
   "enabled": true,
-  "title": "musicOS v2.0.6 Coming Soon!",
-  "message": "Hey everyone!\n\nmusicOS Version 2.0.6 is officially on the way! We are actively working on exciting new improvements, performance optimizations, and important bug fixes to make your listening experience even better.\n\nDevelopment is actively underway — stay tuned for the release!\n\nThank you for your continuous love and support.\n— Developer of musicOS",
+  "title": "🎉 musicOS v2.0.6 Update is Out!",
+  "message": "Hey everyone!\n\nmusicOS Version 2.0.6 is officially out now with exciting new features and critical fixes!\n\n✨ What's New & Fixed in v2.0.6:\n• 🎨 Custom Playlist Covers: Now upload custom photos directly from your device storage for your playlists (permanent across reinstalls & re-logins)!\n• 📻 Dedicated MusicOS Logo: Sleek 3-waves MusicOS emblem on the Radio navigation tab and station cards.\n• ⚡ 400 Bad Request Fixes: Resolved all 400 errors when opening Songs, Albums, Artists, and Library shelves.\n• 🔔 Background Update Alerts: Receive high-priority notifications when updates drop even if the app is closed.\n• 💎 Liquid Glass & Performance: Ultra-smooth 60/120fps scrolling and refined UI rendering.\n\n⚠️ Reminder: Jis jis ne abhi tak update nahi kiya hai, please update check karein aur latest version v2.0.6 par update karein!\n\nThank you for your continuous love and support.\n— Developer of musicOS",
   "type": "update",
-  "action_label": "GitHub",
-  "action_url": "https://github.com/subon7dev/musicOS-v2",
+  "action_label": "Update Now",
+  "action_url": "https://github.com/subon7dev/musicos-app/releases/latest",
   "dismissible": true
 }
