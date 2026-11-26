@@ -1,10 +1,10 @@
 {
-  "id": "announcement_v2_0_4_released",
-  "enabled": false,
-  "title": "MusicOS 2.0.4 is Here!",
-  "message": "Hey everyone!\n\nMusicOS Version 2.0.4 is officially here!\n\nWhat is new in this update:\n\n- Redesigned Onboarding: Sleek AMOLED pure black welcome screen with the elegant Water Waves emblem.\n- Fluid Scroll Animations: Smooth spring pop-up animations when scrolling through Albums, Playlists, Artists, and Track lists.\n- Refined Settings: Beautiful spring entrance animations and transitions for Settings sections and Account card.\n- Enhanced Menus: Fluid spring physics for the Account Switcher and 3-dot track options popovers.\n- Visual Polish: Fixed playing equalizer indicator badge display on album artwork.\n- Dynamic Spotlight: Multi-shelf Featured Spotlight on Home with automatic advance.\n- Performance Boost: Faster load times, reduced stutter, and optimized fluid navigation throughout the app.\n\nThank you so much for your continuous love and support!\n\n— Developer of MusicOS",
+  "id": "announcement_v2_0_6_upcoming",
+  "enabled": true,
+  "title": "musicOS v2.0.6 Coming Soon!",
+  "message": "Hey everyone!\n\nmusicOS Version 2.0.6 is officially on the way! We are actively working on exciting new improvements, performance optimizations, and important bug fixes to make your listening experience even better.\n\nDevelopment is actively underway — stay tuned for the release!\n\nThank you for your continuous love and support.\n— Developer of musicOS",
   "type": "update",
-  "action_label": "Update Now",
-  "action_url": "https://github.com/subon7dev/musicos-app/releases/latest",
+  "action_label": "GitHub",
+  "action_url": "https://github.com/subon7dev/musicOS-v2",
   "dismissible": true
 }
