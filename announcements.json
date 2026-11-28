@@ -1,10 +1,9 @@
 {
-  "id": "announcement_v2_0_6_live",
+  "id": "announcement_flow_coming_soon",
   "enabled": true,
-  "title": "🎉 musicOS v2.0.6 Update is Out!",
-  "message": "Hey everyone!\n\nmusicOS Version 2.0.6 is officially out now with exciting new features and critical fixes!\n\n✨ What's New & Fixed in v2.0.6:\n• 🎨 Custom Playlist Covers: Now upload custom photos directly from your device storage for your playlists (permanent across reinstalls & re-logins)!\n• 📻 Dedicated MusicOS Logo: Sleek 3-waves MusicOS emblem on the Radio navigation tab and station cards.\n• ⚡ 400 Bad Request Fixes: Resolved all 400 errors when opening Songs, Albums, Artists, and Library shelves.\n• 🔔 Background Update Alerts: Receive high-priority notifications when updates drop even if the app is closed.\n• 💎 Liquid Glass & Performance: Ultra-smooth 60/120fps scrolling and refined UI rendering.\n\n⚠️ Reminder: Jis jis ne abhi tak update nahi kiya hai, please update check karein aur latest version v2.0.6 par update karein!\n\nThank you for your continuous love and support.\n— Developer of musicOS",
-  "type": "update",
-  "action_label": "Update Now",
-  "action_url": "https://github.com/subon7dev/musicos-app/releases/latest",
+  "title": "Introducing musicOS Flow 🌊",
+  "message": "Get ready for a revolutionary way to discover music in musicOS!\n\n✨ Flow Highlights:\n• 🔥 Best Part First: Skips slow intros and jumps straight to the chorus & viral hooks powered by YouTube heatmaps.\n• ⏱️ 30s Auto-Preview: Tracks refresh seamlessly every 30 seconds with a glowing real-time countdown progress bar.\n• 💎 Hard Glass Aesthetic: Tactile frosted glass action rail, specular rim light borders, and spinning vinyl disc.\n• 🔀 Infinite Horizon: 14+ genres and dynamic radio algorithms with non-repeating recommendations.\n• ⚡ Seamless Queue Promotion: Tap Play anytime to enjoy the full track uninterrupted.\n\n\"Flow is built so the best moments of music come straight to you without waiting.\"\n— Nexa ❤️",
+  "type": "feature",
+  "action_label": "Got It",
   "dismissible": true
 }
